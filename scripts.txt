@@ -1,0 +1,2 @@
+deploy
+alias deploy='sudo rm -r /opt/lampp/htdocs/cap13; sudo cp -r cap13 /opt/lampp/htdocs'
